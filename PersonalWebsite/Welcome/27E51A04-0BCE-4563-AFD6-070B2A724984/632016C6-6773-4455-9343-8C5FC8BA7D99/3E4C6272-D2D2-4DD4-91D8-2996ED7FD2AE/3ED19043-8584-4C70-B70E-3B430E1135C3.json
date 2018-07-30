@@ -34,6 +34,7 @@
     "string": "Project Jupyter"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "3ED19043-8584-4C70-B70E-3B430E1135C3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 260
   },
   "glyphBounds": "{{1, 1}, {129, 18}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,9 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "4C6A88AD-570B-4EB9-AF78-35366DAB0213",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F2C67DD1-62A1-4D56-BEDC-7763B09A1E43",
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

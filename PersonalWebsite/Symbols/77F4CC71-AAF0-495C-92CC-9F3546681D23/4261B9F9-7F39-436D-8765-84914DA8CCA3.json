@@ -32,6 +32,7 @@
     "string": "h4 — This is a section subtitle"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "4261B9F9-7F39-436D-8765-84914DA8CCA3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +53,7 @@
     "y": 365
   },
   "glyphBounds": "{{0, 0}, {276, 27.3199462890625}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,10 +69,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "650842D0-57C0-495B-9430-D07B84CAEC4B",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "7E35A188-1B6D-42AF-819F-00C2E806C6DE",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

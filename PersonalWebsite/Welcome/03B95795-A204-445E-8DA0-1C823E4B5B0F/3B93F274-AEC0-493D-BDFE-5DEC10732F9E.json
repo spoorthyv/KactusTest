@@ -36,6 +36,7 @@
     "string": "I ended up picking option 3 for a couple reasons. The main reason was that it was able to hide all the elements that didnt serve a purpose when you are scrolling around the map. It kept the question of “Where to?” on the screen and it kept the advertising card while hiding everything else."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "3B93F274-AEC0-493D-BDFE-5DEC10732F9E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 3412
   },
   "glyphBounds": "{{0, 6}, {801, 67}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,9 +72,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -65,6 +65,7 @@
     "string": "DING DONG. I get off the couch and open the door to see that I recieved a package. I give the man a signature and take the package. Excitedly I tear the package open to see that my parents had sent me a new lens for my birthday. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "BD98E706-AB59-458A-B4F6-CFFB4F73CC0D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 46
   },
   "glyphBounds": "{{0, 6}, {701, 66}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -99,9 +101,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -129,7 +131,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

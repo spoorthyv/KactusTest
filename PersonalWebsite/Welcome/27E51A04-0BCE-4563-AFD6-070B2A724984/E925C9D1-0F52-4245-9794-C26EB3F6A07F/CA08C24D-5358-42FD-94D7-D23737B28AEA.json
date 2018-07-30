@@ -34,6 +34,7 @@
     "string": "Hi I’m"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "CA08C24D-5358-42FD-94D7-D23737B28AEA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 292
   },
   "glyphBounds": "{{2, 1}, {66, 20}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,9 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "80564903-BB54-4FE0-BD44-5A65CAA67544",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "6CD62893-4258-452B-B050-F4ECF4D52CE1",
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

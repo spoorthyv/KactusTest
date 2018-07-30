@@ -32,6 +32,7 @@
     "string": "Text area content (Disabled)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "837A3A14-821B-402B-B7C9-89121C284542",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
@@ -52,6 +53,7 @@
     "y": 8
   },
   "glyphBounds": "{{0, 0}, {278, 19.12396240234375}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

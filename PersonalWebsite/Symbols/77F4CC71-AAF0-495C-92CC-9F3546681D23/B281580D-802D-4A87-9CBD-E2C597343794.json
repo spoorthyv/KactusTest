@@ -32,6 +32,7 @@
     "string": "Sketch Wireframing Kit — v1.2 — Typography"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "B281580D-802D-4A87-9CBD-E2C597343794",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +53,7 @@
     "y": 50
   },
   "glyphBounds": "{{0, 0}, {769, 49.1759033203125}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,10 +69,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "3DAE2D4F-6B2C-4FFE-A910-012A9F9E7067",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "8ED1DFDF-DFF2-42D1-BD43-3558439A68F3",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

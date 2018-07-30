@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A13F00C2-320B-4890-9D65-750AA35B25F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "357FA8BD-A2B9-4A32-ADD0-E087C2E1850E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2FAD1DE-22E0-4FD0-83E6-9F5F094BD57B",
+    "height": 158,
+    "width": 153,
+    "x": 644,
+    "y": 322
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF1A5F5B-6A6B-4E83-9DE3-92541D286F65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8C29A6B-DF1E-4207-A9E0-E07A93564151"
+    }
+  ],
+  "name": "Logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B19E7D2A-749E-4DA5-9DA8-96CC64225614",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

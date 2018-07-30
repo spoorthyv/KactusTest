@@ -94,6 +94,7 @@
     "string": "My Sophomore year I wrote a 15 page design analysis of PolyPlanner.\n\nTLDR: IT SUCKED. Too many useless & distracting elements and too many hidden items"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "61CC044E-A366-4933-9AEE-D3876037E829",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -114,6 +115,7 @@
     "y": 1458
   },
   "glyphBounds": "{{0, 11}, {943, 221}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -128,7 +130,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "innerShadows": [
       {
         "_class": "innerShadow",
@@ -152,7 +154,7 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -180,7 +182,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

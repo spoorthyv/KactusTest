@@ -32,6 +32,7 @@
     "string": "Radio Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "FAF786E9-7101-4247-A2A0-B6FE123D47BB",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
@@ -52,6 +53,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 0}, {76, 19.12396240234375}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

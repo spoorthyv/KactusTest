@@ -36,6 +36,7 @@
     "string": "My work as a UI/UX designer and Front-end developer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "B5815C9C-C910-4B82-B661-8A13CD924D58",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +59,7 @@
     "y": 286
   },
   "glyphBounds": "{{1, 5}, {214, 34}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,9 +75,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "0ADA5066-6369-4D49-A37E-B819557499D7",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "375D339A-469A-4BFA-8AB8-E81B56BE34E6",
@@ -104,7 +106,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

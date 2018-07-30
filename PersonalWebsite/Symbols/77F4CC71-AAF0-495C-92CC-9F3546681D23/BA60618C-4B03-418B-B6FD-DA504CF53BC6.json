@@ -32,6 +32,7 @@
     "string": "h2 — This is a subtitle"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "BA60618C-4B03-418B-B6FD-DA504CF53BC6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +53,7 @@
     "y": 252
   },
   "glyphBounds": "{{0, 0}, {302, 41}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,10 +69,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "5BBF32DB-7EA9-4C02-A05C-F41121DFD2BF",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

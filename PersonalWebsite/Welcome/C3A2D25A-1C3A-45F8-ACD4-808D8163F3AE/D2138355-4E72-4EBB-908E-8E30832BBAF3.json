@@ -36,6 +36,7 @@
     "string": "Going into this redesign I was under the impression that you couldn’t uber to a point on the map. This is because the current method to do this is super hidden. \n\nFirst you click the search bar, then you are provided with a normal looking search page. You are supposed to drag down to reveal a map where you can then place a pin for your destination. \n\nDuring usertesting no one was able to find this feature."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D2138355-4E72-4EBB-908E-8E30832BBAF3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 1547
   },
   "glyphBounds": "{{0, 6}, {476, 242}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,9 +72,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }
