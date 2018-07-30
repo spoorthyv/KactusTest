@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3FE44A15-06ED-4E1F-87BD-36472630F86C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 172,
+    "width": 131,
+    "x": 397,
+    "y": 83
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FE07A628-6EEB-478B-BAA1-FD75F0895E0F"
+    },
+    {
+      "class": "group",
+      "id": "8CD489EA-5718-4899-A2B3-126E4E0180F7"
+    },
+    {
+      "class": "group",
+      "id": "ABC7D3BE-32E0-41AB-9ADC-F64D05B475E7"
+    },
+    {
+      "class": "group",
+      "id": "55D0634C-6F45-483A-985D-49A7FE37A155"
+    },
+    {
+      "class": "group",
+      "id": "18D11BF1-4755-4E25-AF9D-2993D5619709"
+    }
+  ],
+  "name": "jupyter",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

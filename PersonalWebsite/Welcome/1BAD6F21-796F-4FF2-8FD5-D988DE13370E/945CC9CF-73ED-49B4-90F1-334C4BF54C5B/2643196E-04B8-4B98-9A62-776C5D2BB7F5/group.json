@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "2643196E-04B8-4B98-9A62-776C5D2BB7F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 460,
+    "width": 546,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3923DC85-9007-4AE6-AF1E-14318028C094"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABBB6F50-CB1D-4541-8883-0B54F432F718"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "617C2C67-580F-4F68-90A2-8BA25BA92E4D"
+    }
+  ],
+  "name": "polyplannerBannerBackground",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

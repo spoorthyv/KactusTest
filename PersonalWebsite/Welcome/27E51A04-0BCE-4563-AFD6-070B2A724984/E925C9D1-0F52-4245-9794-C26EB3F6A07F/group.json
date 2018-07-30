@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "E925C9D1-0F52-4245-9794-C26EB3F6A07F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF84C9E5-F7E9-4AAA-83BC-C62A07109F8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C241E08E-23E8-4B84-893F-8A66EA0E0120",
+    "height": 1024,
+    "width": 511,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CD20F043-CB86-4BE3-B8AA-F96144ED983C"
+    },
+    {
+      "class": "text",
+      "id": "D1F03765-920A-4456-AF2B-E9DAF8255746"
+    },
+    {
+      "class": "text",
+      "id": "CA08C24D-5358-42FD-94D7-D23737B28AEA"
+    },
+    {
+      "class": "text",
+      "id": "4CECD889-50D8-4965-A187-28D25190B17D"
+    },
+    {
+      "class": "text",
+      "id": "E735E56B-E5D0-4042-97C9-AA290CD8BE9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD9D4305-A82F-417F-8027-44420FB4F770"
+    },
+    {
+      "class": "text",
+      "id": "7078F938-1D10-4E7B-A352-84DFAB957B9C"
+    },
+    {
+      "class": "text",
+      "id": "40DFB39C-238B-40C3-A7C8-57F669B0B1AC"
+    },
+    {
+      "class": "text",
+      "id": "33B1E9E7-1B42-4AA3-86B7-A9B8F6ED74BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FAEDD09-C05E-4367-8B88-BA39E599548A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC56B01B-1141-40CF-9C71-3A6F2C8177C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46E23DB6-E733-422A-9D84-7DA46049A536"
+    }
+  ],
+  "name": "Navbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "945C6616-3F41-400B-BCF0-B529FBE2C45B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

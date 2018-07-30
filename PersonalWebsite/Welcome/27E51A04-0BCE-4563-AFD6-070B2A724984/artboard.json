@@ -1,0 +1,102 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "80C7DC91-4D81-4735-B66B-76172C5C55CE",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "27E51A04-0BCE-4563-AFD6-070B2A724984",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB2A86A6-A15A-40AC-8EA9-DC341680AF7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64AFA017-9FF4-4FE7-9199-BABAF91C6210",
+    "height": 1024,
+    "width": 1440,
+    "x": 35930,
+    "y": -1594
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B312003D-3300-42A8-9578-A5E42DBACE26",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F1DA1D99-DEC5-4D8A-8106-C1A78CA20C16",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "632016C6-6773-4455-9343-8C5FC8BA7D99"
+    },
+    {
+      "class": "group",
+      "id": "E925C9D1-0F52-4245-9794-C26EB3F6A07F"
+    },
+    {
+      "class": "group",
+      "id": "87FF7A8B-A255-4FF3-8F36-CA3668DA07C9"
+    }
+  ],
+  "name": "Desktop HD Copy",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7678B8A6-F333-4B7A-85D5-245D5AD1A361",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -9,
+    "do_objectID": "6DD971B4-DCE5-4399-9A8A-EEF42302D51B",
+    "guides": [
+    ]
+  }
+}
