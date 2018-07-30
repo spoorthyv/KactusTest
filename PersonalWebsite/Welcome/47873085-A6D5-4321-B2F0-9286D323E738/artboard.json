@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 1687,
     "width": 1895,
-    "x": 18414,
-    "y": 4142
+    "x": 18418,
+    "y": 5461
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -32,7 +32,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      951
     ]
   },
   "includeBackgroundColorInExport": true,

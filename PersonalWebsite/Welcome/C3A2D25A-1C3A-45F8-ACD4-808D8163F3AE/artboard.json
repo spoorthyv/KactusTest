@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8577,
+    "height": 4662,
     "width": 1440,
-    "x": 24536,
-    "y": -1075
+    "x": 22575,
+    "y": 169
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

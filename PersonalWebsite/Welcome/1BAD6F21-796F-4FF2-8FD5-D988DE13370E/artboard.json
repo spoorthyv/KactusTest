@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2002,
-    "width": 1819,
-    "x": 31845,
-    "y": -1951
+    "height": 720,
+    "width": 1015,
+    "x": 24848,
+    "y": 6968
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
